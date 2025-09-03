@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1756255973 source:c:\users\omar_\documents\codeblock_ws\prueba_listaligadasimple\src\nodolls.cpp
+	"NodoLLS.h"
+
+1756341168 c:\users\omar_\documents\codeblock_ws\prueba_listaligadasimple\include\nodolls.h
+	<iostream>
+
+1756881734 source:c:\users\omar_\documents\codeblock_ws\prueba_listaligadasimple\main.cpp
+	<iostream>
+	"ListaLigadaSimple.h"
+
+1756880929 c:\users\omar_\documents\codeblock_ws\prueba_listaligadasimple\include\listaligadasimple.h
+	"NodoLLS.h"
+
+1756881842 source:c:\users\omar_\documents\codeblock_ws\prueba_listaligadasimple\src\listaligadasimple.cpp
+	<iostream>
+	<new>
+	"ListaLigadaSimple.h"
+
